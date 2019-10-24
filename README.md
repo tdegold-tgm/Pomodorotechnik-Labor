@@ -8,15 +8,14 @@ Für gesteigerte Produktivität im Labor empfiehlt sich die Pomodorotechnik.
 
 ## Ablaufbeschreibung
 
-1. Aufgabe schriftlich zusammenfassen (Was willst du an diesem Tag im Labor erreichen?): 5min
+1. Intro (Was willst du an diesem Tag im Labor erreichen?): 5min, 13:20
 2. Konzentriertes Arbeiten: 42min
 3. Pause: 6min
 4. wiederhole die Punkte 2-3
-5. Große Pause: 20min
+5. Große Pause: 20min, 14:55-15:15
 6. wiederhole die Punkte 2-4
-7. Recap: **GIT PUSH nicht vergessen** und zusammenpacken, Materialien verstauen: 5min
+7. Recap: **GIT PUSH nicht vergessen** und zusammenpacken, Materialien verstauen: 5min, 16:50
 
 ## Quellen
 
 [Offizielle Seite der Pomodorotechnik](https://francescocirillo.com/pages/pomodoro-technique)
-
