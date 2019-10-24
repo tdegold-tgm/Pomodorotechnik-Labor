@@ -4,7 +4,7 @@ Für gesteigerte Produktivität im Labor empfiehlt sich die Pomodrotechnik.
 
 ## Timeline
 
-![timeline_png](img\Labor_pomodoro.png)
+![timeline_png](/img/Labor_pomodoro.png)
 
 ## Ablaufbeschreibung
 
