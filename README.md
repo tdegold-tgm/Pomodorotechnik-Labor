@@ -26,7 +26,7 @@ Für das Lernbüro gibt es einen 2 Stunden Pomodoro-Block. Dieser kann jedoch pr
 
 ### Timeline
 
-![img](\img\2h.svg)
+![img](/img/2h.svg)
 
 ### Ablaufbeschreibung
 
