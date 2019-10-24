@@ -14,8 +14,9 @@ Für gesteigerte Produktivität im Labor empfiehlt sich die Pomodorotechnik.
 4. wiederhole die Punkte 2-3
 5. Große Pause: 20min
 6. wiederhole die Punkte 2-4
-7. Recap: **GIT PUSH nicht vergessen** und zusammenpacken: 5min
+7. Recap: **GIT PUSH nicht vergessen** und zusammenpacken, Materialien verstauen: 5min
 
 ## Quellen
 
 [Offizielle Seite der Pomodorotechnik](https://francescocirillo.com/pages/pomodoro-technique)
+
